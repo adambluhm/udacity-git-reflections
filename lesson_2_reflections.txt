@@ -36,6 +36,12 @@ organized? How would branches help?
 
 How do the diagrams help you visualize the branch structure?
 
+    The diagrams provide an easy way to visualize the parent of each commit and
+    if any commits are unreachable which would result in a 'detached HEAD'
+    state. You can also trace back through the different branches to see where
+    they split if you wish to merge them and would like some context in what has
+    happened since they split.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
