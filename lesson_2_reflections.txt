@@ -17,8 +17,22 @@ What value do you think it offers?
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+    You can use the command "git diff --staged" to compare the staging area to
+    the most recent commit which will display all the pending changes. You can
+    scan these changes to ensure that you have one logical change before you
+    commit.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+
+    Branches would be helpful anytime you require two active states of your
+    work. For example, you might have one branch for the last publicly released
+    version of your project so you can refer to the most recent productive code
+    and create branches from it to diagnose bugs. You might also have one branch
+    for the next major release of your project that you can work on over a long
+    period of time. In addition, you may have several branches from the last
+    public release to track down and fix bugs. This would in turn result in
+    additional minor releases for which branches would also be beneficial.
 
 How do the diagrams help you visualize the branch structure?
 
