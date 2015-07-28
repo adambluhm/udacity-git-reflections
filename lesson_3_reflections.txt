@@ -1,0 +1,9 @@
+LESSON 3 - REFLECTIONS
+
+When would you want to use a remote repository rather than keeping all your work
+local?
+    
+    It would be useful to create a remote repository when collaborating with
+    others as they would need access to the same code. It would also be useful
+    for when you are working on multiple computers and need to have easy access
+    to your work.
