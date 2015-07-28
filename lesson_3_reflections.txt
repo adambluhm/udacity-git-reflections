@@ -7,3 +7,13 @@ local?
     others as they would need access to the same code. It would also be useful
     for when you are working on multiple computers and need to have easy access
     to your work.
+
+Why might you want to always pull changes manually rather than having Git
+automatically stay up-to-date with your remote repository?
+
+    Being in control of when the changes are synced allows you to ensure that
+    any changes are synced in a logical way. Similar to if Git automatically
+    committed your changes, many times your work would be in a transitional
+    state and any code would likely not work correctly if you are in the middle
+    of fixing a bug or adding a new feature. It would be far more logical if you
+    had full manual control of when and how frequently the syncing took place.
