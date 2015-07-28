@@ -17,3 +17,21 @@ automatically stay up-to-date with your remote repository?
     state and any code would likely not work correctly if you are in the middle
     of fixing a bug or adding a new feature. It would be far more logical if you
     had full manual control of when and how frequently the syncing took place.
+
+Describe the differences between forks, clones, and branches. When would you use
+one instead of another?
+
+    Forked repositories are copies of another repository on GitHub. These are
+    useful when someone else has made a project available publicly but you are
+    not a collaborator and wish to made your own modifications.
+
+    Cloned repositories are also copies of another repository but these exist on
+    the same local machine or a local copy of a GitHub repository. These are
+    useful when you want to work on your own repository without modifying the
+    original repository.
+
+    Branches are different versions within the same repository. These are useful
+    when you would like to save a project in a specific state, like keeping
+    track of the all of the different public releases of a project, or if you
+    want to work on a bug fix or add a feature without impacting the master
+    branch.
