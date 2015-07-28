@@ -44,3 +44,15 @@ stored locally?
     diff without having to communicate with the GitHub servers. This would be
     quicker and also not require multiple data requests which could be a concern
     for large repositories.
+
+How would you collaborate without using Git or GitHub? What would be easier, and
+what would be harder?
+
+    Without Git and GitHub, I would have to send files to other collaborators
+    using email, Dropbox, FTP, or something similar. It could be easier to not
+    use Git and GitHub on small/simple projects or projects where version
+    history is not necessary or needed. Another advantage is that it is very
+    easy for everyone to use especially if they are unfamiliar with Git/GitHub.
+    Not having Git and GitHub to track changes and different branches would make
+    large and more complicated projects much more difficult to collaborate on
+    and potentially make changes and collaboration much more time-consuming.
