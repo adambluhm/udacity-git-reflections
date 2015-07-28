@@ -45,5 +45,13 @@ How do the diagrams help you visualize the branch structure?
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+    Merging two branches together results in all of the changes being combined
+    in a single branch and all being accessible from the one branch. This allows
+    you to merge a completed function or change into the main branch and reduces
+    complexity when two branches are no longer required. One important note is
+    the commits are organized and ordered by timestamp so they may be out of
+    order in the log. The diagram represents the merge by showing the two
+    branches combining into a single branch.
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
