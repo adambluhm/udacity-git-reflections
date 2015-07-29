@@ -56,3 +56,18 @@ what would be harder?
     Not having Git and GitHub to track changes and different branches would make
     large and more complicated projects much more difficult to collaborate on
     and potentially make changes and collaboration much more time-consuming.
+
+When would you want to make changes in a separate branch rather than directly in
+master? What benefits does each approach have?
+
+    It would be best to use a separate branch to make changes when you are
+    collaborating with others that may wish to make additional changes or even
+    decline your changes. Even on your own project when you are the sole
+    contributor, you may wish to use a separate branch to work on some new
+    features or bug fixes.
+    
+    The benefits of using a separate branch is that you preserve the master and
+    that you can invite collaboration and review by other contributors. The
+    benefits of making direct changes to the master is that it is much easier
+    and faster for changes that are small and have a low risk of breaking the
+    master.
